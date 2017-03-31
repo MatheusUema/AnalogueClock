@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490843666 source:c:\users\matheus uema\desktop\clock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
